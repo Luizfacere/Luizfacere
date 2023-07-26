@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Luiz👋
 
 - 🔭 Atualmente estou trabalhando como suporte T.I
-- 🌱 Atualmente estudando JavaScripty
+- 🌱 Atualmente estudando JavaScript
 - 📫 Contate-me no email: Luiz.zan31@gmail.com
 - 😄 Pronouns: Ele/Dele
  <div>
